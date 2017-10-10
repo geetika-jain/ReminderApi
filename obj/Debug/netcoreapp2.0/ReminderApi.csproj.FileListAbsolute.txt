@@ -1,0 +1,11 @@
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\bin\Debug\netcoreapp2.0\ReminderApi.deps.json
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\bin\Debug\netcoreapp2.0\ReminderApi.runtimeconfig.json
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\bin\Debug\netcoreapp2.0\ReminderApi.runtimeconfig.dev.json
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\bin\Debug\netcoreapp2.0\ReminderApi.dll
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\bin\Debug\netcoreapp2.0\ReminderApi.pdb
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.csprojResolveAssemblyReference.cache
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.csproj.CoreCompileInputs.cache
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.AssemblyInfoInputs.cache
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.AssemblyInfo.cs
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.dll
+C:\Users\Geet\source\repos\ReminderApi\ReminderApi\obj\Debug\netcoreapp2.0\ReminderApi.pdb
